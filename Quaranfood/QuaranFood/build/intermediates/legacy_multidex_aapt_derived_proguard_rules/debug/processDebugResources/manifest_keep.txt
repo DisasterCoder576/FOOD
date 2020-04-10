@@ -1,0 +1,2 @@
+# Referenced at C:\Users\NagarjunaPrabhu\Nimisha\android studio projects\Quaranfood\QuaranFood\build\intermediates\merged_manifests\debug\AndroidManifest.xml:33
+-keep class com.quaranfood.starter.StarterApplication { <init>(); }
